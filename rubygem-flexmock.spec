@@ -4,7 +4,7 @@
 #
 Name     : rubygem-flexmock
 Version  : 1.3.3
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/flexmock-1.3.3.gem
 Source0  : https://rubygems.org/downloads/flexmock-1.3.3.gem
 Summary  : No detailed summary available
