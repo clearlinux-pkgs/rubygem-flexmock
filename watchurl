@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.342693
+# {'~>0.9.0', 'development'}
+watchurl=https://rubygems.org/gems/flexmock/versions/(0\.[0-9](\.[0-9]{1,2})?)
